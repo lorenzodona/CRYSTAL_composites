@@ -13,10 +13,9 @@ Install Intel® oneAPI compilers for Linux x86_64 architecture
 - [ntel® HPC Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&linux-install-type=offline)
 
 ## Using CRYSTAL with the new "sol-3c" and "pob-3c" composite methods
-To run the DEMO code the input file must be renamed “INPUT”, and the code must be executed in the directory of this file, as follows:
+To run the CRYSTAL executbale, simply type 
 ```
-cp test_quartz.d12 INPUT
-mpirun -np (number of process between 1 and 4) /path/to/GCRYSTAL_X.0_executables < INPUT >& test_quartz.out &
+./crystal < input_name.d12 >& output_name.out &
 ```
 
 ## License
