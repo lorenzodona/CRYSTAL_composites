@@ -1,5 +1,5 @@
 # composite_methods
-This repository contains two development versions of the CRYSTAL code aimed at incorporating GPU support to improve efficiency on modern HPC architectures for ab initio solid-state materials simulations.
+This repository contains a development versions of the CRYSTAL code with a new class of composite electronic strucure methods based on the r<sup>2</sup>SCAN funtional aiming to perform large scale calculations on modern HPC architectures for ab initio solid-state materials simulations.
 
 The first version, GCRYSTAL_1.0, directly integrates CUDA math libraries for accelerated linear algebra operations, building on the standard parallel version of the CRYSTAL code (PCRYSTAL). GCRYSTAL_1.0 has undergone extensive testing on accelerated HPC systems.
 
