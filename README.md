@@ -1,10 +1,7 @@
 # composite_methods
-This repository contains a development versions of the CRYSTAL code with a new class of composite electronic strucure methods based on the r<sup>2</sup>SCAN funtional aiming to perform large scale calculations on modern HPC architectures for ab initio solid-state materials simulations.
+This repository contains a development versions of the CRYSTAL code with a new class of composite and cost-effective electronic strucure methods based on the r<sup>2</sup>SCAN funtional aiming to perform large scale calculations on modern HPC architectures for solid-state simulations.
 
-The first version, GCRYSTAL_1.0, directly integrates CUDA math libraries for accelerated linear algebra operations, building on the standard parallel version of the CRYSTAL code (PCRYSTAL). GCRYSTAL_1.0 has undergone extensive testing on accelerated HPC systems.
-
-The second version, GCRYSTAL_2.0, is currently under development and involves a more extensive refactoring of the code. Its aim is to enhance the use of accelerated libraries by minimizing input/output operations and reducing frequent data transfers between the host and device. This version has not yet been thoroughly tested, and not all features are fully implemented.
-
+The corresponding r<sup>2</sup>SCAN-based composite methods in their pure and hybrid HF/DFT variants have been developed in combination with double-&zeta(sol-def2-mSVP) and triple-&zeta (pob-TZVP-rev2) quality basis sets specifically adapted to solids.
 Both versions are available as CRYSTAL DEMO executables (limited to 12 atoms), along with the source code for the newly developed code. Additional details can be found in the relative sections below.
 
 ## Prerequisites
