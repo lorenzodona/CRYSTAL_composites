@@ -13,7 +13,7 @@ Install Intel® oneAPI compilers for Linux x86_64 architecture
 - [ntel® HPC Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&linux-install-type=offline)
 
 ## Using CRYSTAL with the new "sol-3c" and "pob-3c" composite methods
-To run the CRYSTAL executbale, simply type 
+To test the new composite methods as implemented in the CRYSTAL code, simply type:
 ```
 ./crystal < input_name.d12 >& output_name.out &
 ```
