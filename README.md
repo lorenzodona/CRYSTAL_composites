@@ -8,7 +8,7 @@ This demo version of the CRYSTAL code is limited to 12 atoms and can only be run
 Further details can be found in the corresponding sections below.
 
 ## Executables
-The CRYSTAL binary file has been generated for Linux x86_64 architecture using Intel® oneAPI compilers
+The CRYSTAL binary has been compiled for the Linux x86_64 architecture using Intel® oneAPI compilers.
 - [Intel® oneAPI Base Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=linux&linux-install-type=offline)
 - [Intel® HPC Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&linux-install-type=offline)
 
