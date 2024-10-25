@@ -10,7 +10,7 @@ Further details can be found in the corresponding sections below.
 ## Prerequisites
 Install Intel® oneAPI compilers for Linux x86_64 architecture
 - [Intel® oneAPI Base Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=linux&linux-install-type=offline)
-- [ntel® HPC Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&linux-install-type=offline)
+- [Intel® HPC Toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&linux-install-type=offline)
 
 ## Using CRYSTAL with the new "sol-3c" and "pob-3c" composite methods
 To test the new composite methods as implemented in the CRYSTAL code, simply type:
