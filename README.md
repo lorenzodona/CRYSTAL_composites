@@ -1,4 +1,4 @@
-#CRYSTAL composite_methods
+# CRYSTAL composite_methods
 This repository contains a development version of the CRYSTAL code with a new class of composite and low-cost electronic structure methods based on the r<sup>2</sup>SCAN functional, aimed at performing large-scale computations on modern HPC architectures for solid state calculations.
 
 The corresponding r<sup>2</sup>SCAN-based methods, in their pure and hybrid HF/DFT variants, have been developed in combination with double-ζ (sol-def2-mSVP) and triple-ζ (pob-TZVP-rev2) quality basis sets specifically adapted to solids and augmented with the well-established gCP and D3(BJ) corrections.
